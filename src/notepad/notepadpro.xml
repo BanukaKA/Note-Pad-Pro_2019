@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\NCCS\Documents\NetBeansProjects\Notepad 3\dist\Notepad_3.jar</jar>
+  <outfile>D:\Notepad Pro 2.exe</outfile>
+  <errTitle>You need to download the minimum of 1. jre path using the website http://java.ccom/download. by BK</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\NCCS\Desktop\notepad-icon-17545-Windows.ico</icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.4</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <splash>
+    <file>C:\decstop\ima1.bmp</file>
+    <waitForWindow>true</waitForWindow>
+    <timeout>5</timeout>
+    <timeoutErr>true</timeoutErr>
+  </splash>
+</launch4jConfig>
